@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin-left: 100px;
+}
+h1{
+    color: darkgreen;
+}
+td{
+    color:darkgreen
+}
